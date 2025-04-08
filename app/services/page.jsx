@@ -227,7 +227,7 @@ export default function ServicesPage() {
 
       {/* === Services Filter === */}
       <motion.section
-        className="py-8 px-4 bg-black/50 backdrop-blur-sm sticky top-0 z-40 border-b border-t border-zinc-800"
+        className="py-8 px-4 bg-black/50 backdrop-blur-sm  top-0 z-40 border-b border-t border-zinc-800"
         initial="hidden"
         whileInView="visible"
         variants={staggerContainer(0.05)}
